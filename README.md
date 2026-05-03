@@ -2,7 +2,7 @@
 
 Hi, I'm Mehmet Software Developer | Based in Germany
 
-I'm a self-taught developer who successfully finished Harvard University's CS50x via edX. My current priorities are deepening the understanding of important tools like Git as well as data structures and algorithms.
+I'm a self-taught developer who successfully finished Harvard University's [CS50x via edX](https://pll.harvard.edu/course/cs50-introduction-computer-science). My current priorities are deepening the understanding of important tools like Git as well as data structures and algorithms.
 
 To further polish the skills I’ve been using for years and really round out my expertise, I've decided to take CS50W from the same university. It’s a great way to double down on Git, JavaScript, Python, and SQL.
 
