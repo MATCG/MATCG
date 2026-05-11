@@ -4,6 +4,8 @@ Hi, I'm Mehmet Software Developer | Based in Germany
 
 I'm a self-taught developer who successfully finished [Harvard University's CS50x via edX](https://pll.harvard.edu/course/cs50-introduction-computer-science). My current priorities are deepening the understanding of important tools like Git as well as data structures and algorithms.
 
+According to GitHub, 2023 was my most active year. In reality, I’ve been working on private projects all along, but I just didn't have a reason to use GitHub for them.
+
 To further polish the skills I’ve been using for years and really round out my expertise, I've decided to take [CS50W](https://pll.harvard.edu/course/cs50s-web-programming-python-and-javascript) from the same university. It’s a great way to double down on Git, JavaScript, Python, and SQL.
 
 Feel free to check out my work in my profile below. Currently, I’m diving into Go because of its simplicity and versatility. I especially love its modern approach to building cross-platform desktop apps using web technologies for the UI. Essentially, it feels like a refined, modern take on C.
