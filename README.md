@@ -20,7 +20,7 @@ Feel free to check out my work in my profile below. Currently, I’m diving into
 - The "Pure" Blog: Built a full blog using only Vanilla JS/HTML/CSS to master the fundamentals.
 - Always Learning: Currently tackling CS50W and deepening Data Structures & Algorithms in Go.
 
-[Portfolio]() | [Indeed] | [Email Me](mcangul19gmail.com)
+[Portfolio]() | [Indeed](https://profile.indeed.com/?hl=de_DE&co=DE&from=gnav-homepage) | [Email Me](mcangul19gmail.com)
 
 <!--
 **MATCG/MATCG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
