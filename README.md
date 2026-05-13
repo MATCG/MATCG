@@ -12,7 +12,6 @@ Feel free to check out my work in my profile below. Currently, I’m diving into
 
 🛠 Tech Stack
 - Languages: Go, JavaScript, C, HTML/CSS
-- Frontend: Next.js, ChakraUI, Motion
 - DevOps/Tools: Git
 
 🚀 Key Milestones
